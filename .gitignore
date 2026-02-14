@@ -1,0 +1,20 @@
+# Android/Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling/cache folders used in this workspace
+.android-user-home/
+.gradle-user-home/
+
+# Logs
+*.log

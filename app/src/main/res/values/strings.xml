@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talkback Scroll Test</string>
+    <string name="numbers_1_100">Numbers 1-100</string>
+    <string name="numbers_101_200">Numbers 101-200</string>
+    <string name="numbers_201_300">Numbers 201-300</string>
+    <string name="back">Back</string>
+</resources>
