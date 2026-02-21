@@ -1,0 +1,20 @@
+name: VoiceOverScrollTest
+options:
+  bundleIdPrefix: com.example
+  developmentLanguage: en
+targets:
+  VoiceOverScrollTest:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - path: VoiceOverScrollTestApp.swift
+      - path: ContentView.swift
+      - path: WebView.swift
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.hyongsopkim.VoiceOverScrollTest
+        GENERATE_INFOPLIST_FILE: YES
+        DEVELOPMENT_TEAM: 3D959YCYQR
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_IDENTITY: "Apple Development"
